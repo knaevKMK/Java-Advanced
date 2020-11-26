@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a3c16d8-f3a5-485b-b4c0-d96988f2d7c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jPcQUk4D7YGRum3OXt3UHnXV3f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.PredicateParty">
+    <configuration name="CustomComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomComparator" />
+      <module name="Functional Programing Exercizes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindSmallestElement" />
+      <module name="Functional Programing Exercizes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOfPredicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListOfPredicates" />
+      <module name="Functional Programing Exercizes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PredicateNames" />
+      <module name="Functional Programing Exercizes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PredicateParty" />
+      <module name="Functional Programing Exercizes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PredicateParty" />
+        <item itemvalue="Application.ListOfPredicates" />
+        <item itemvalue="Application.CustomComparator" />
+        <item itemvalue="Application.FindSmallestElement" />
+        <item itemvalue="Application.PredicateNames" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a3c16d8-f3a5-485b-b4c0-d96988f2d7c8" name="Default Changelist" comment="" />
+      <created>1603709150649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603709150649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="928" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1603736097996">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="928" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1538.900@0.0.1538.900" timestamp="1603736097996" />
+    <state x="726" y="198" key="FileChooserDialogImpl" timestamp="1603828839369">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="726" y="198" key="FileChooserDialogImpl/0.0.1538.900@0.0.1538.900" timestamp="1603828839369" />
+    <state width="1137" height="288" key="GridCell.Tab.0.bottom" timestamp="1603828848266">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.0.bottom/0.0.1538.900@0.0.1538.900" timestamp="1603828848266" />
+    <state width="1137" height="288" key="GridCell.Tab.0.center" timestamp="1603828848266">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.0.center/0.0.1538.900@0.0.1538.900" timestamp="1603828848266" />
+    <state width="1137" height="288" key="GridCell.Tab.0.left" timestamp="1603828848266">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.0.left/0.0.1538.900@0.0.1538.900" timestamp="1603828848266" />
+    <state width="1137" height="288" key="GridCell.Tab.0.right" timestamp="1603828848266">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.0.right/0.0.1538.900@0.0.1538.900" timestamp="1603828848266" />
+    <state width="1137" height="288" key="GridCell.Tab.1.bottom" timestamp="1603828848269">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.1.bottom/0.0.1538.900@0.0.1538.900" timestamp="1603828848269" />
+    <state width="1137" height="288" key="GridCell.Tab.1.center" timestamp="1603828848268">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.1.center/0.0.1538.900@0.0.1538.900" timestamp="1603828848268" />
+    <state width="1137" height="288" key="GridCell.Tab.1.left" timestamp="1603828848266">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.1.left/0.0.1538.900@0.0.1538.900" timestamp="1603828848266" />
+    <state width="1137" height="288" key="GridCell.Tab.1.right" timestamp="1603828848269">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1137" height="288" key="GridCell.Tab.1.right/0.0.1538.900@0.0.1538.900" timestamp="1603828848269" />
+    <state x="537" y="77" key="new project wizard" timestamp="1603828841204">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="537" y="77" key="new project wizard/0.0.1538.900@0.0.1538.900" timestamp="1603828841204" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AppliedArithmetics.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
